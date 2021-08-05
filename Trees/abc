@@ -1,0 +1,15 @@
+digraph {
+	<__main__.Node object at 0x7fa61d80f128> [label=M]
+	<__main__.Node object at 0x7fa61d80f160> [label=A]
+	<__main__.Node object at 0x7fa61d80f128> -> <__main__.Node object at 0x7fa61d80f160> [label=" L"]
+	<__main__.Node object at 0x7fa61d80f198> [label=B]
+	<__main__.Node object at 0x7fa61d80f160> -> <__main__.Node object at 0x7fa61d80f198> [label=" R"]
+	<__main__.Node object at 0x7fa621368d30> [label=C]
+	<__main__.Node object at 0x7fa61d80f198> -> <__main__.Node object at 0x7fa621368d30> [label=" R"]
+	<__main__.Node object at 0x7fa622e1d470> [label=X]
+	<__main__.Node object at 0x7fa61d80f128> -> <__main__.Node object at 0x7fa622e1d470> [label=" R"]
+	<__main__.Node object at 0x7fa622e1d048> [label=Y]
+	<__main__.Node object at 0x7fa622e1d470> -> <__main__.Node object at 0x7fa622e1d048> [label=" R"]
+	<__main__.Node object at 0x7fa622e1d3c8> [label=Z]
+	<__main__.Node object at 0x7fa622e1d048> -> <__main__.Node object at 0x7fa622e1d3c8> [label=" R"]
+}
